@@ -6,7 +6,7 @@ Overview :
 * Recyclerview 
 * Room
 * RxJava
-* BottomSheetFragment
+* BottomSheetDialogFragment
 
 <br>
 Screen-shot
