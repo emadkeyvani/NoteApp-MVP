@@ -5,7 +5,7 @@ import androidx.room.PrimaryKey
 import com.keyvani.noteappmvp.packages.utils.NOTE_TABLE
 
 @Entity(tableName = NOTE_TABLE)
-data class NoteEntity (
+data class NoteEntity(
     @PrimaryKey(autoGenerate = true)
     var id: Int = 0,
     var title: String = "",
